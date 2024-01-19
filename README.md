@@ -10,4 +10,4 @@ una vez que la tortuga muere o si el jugador cierra la ventana.
 Ejecutar el script main.py.
 
 ### **Cómo jugar:**
-Una vez iniciada la partida, presionar la tecla con fecla hacia arriba. **Ojo**: No se puede retroceder.
+Una vez iniciada la partida, presionar la tecla con flecha hacia arriba para avanzar. **Ojo**: No se puede retroceder.
